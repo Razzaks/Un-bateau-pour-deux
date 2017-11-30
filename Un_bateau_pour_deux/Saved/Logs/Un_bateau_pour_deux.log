@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 11/30/17 12:19:55
+=======
+﻿Log file open, 11/30/17 09:06:18
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 11/30/17 09:06:18
 >>>>>>> Stashed changes
@@ -12,7 +16,11 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Un_bateau_pour_deux
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Display: RandInit(142472815) SRandInit(142472815).
+=======
+LogInit: Display: RandInit(2043355915) SRandInit(2043355915).
+>>>>>>> Stashed changes
 =======
 LogInit: Display: RandInit(2043355915) SRandInit(2043355915).
 >>>>>>> Stashed changes
@@ -20,8 +28,13 @@ LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.174344
+=======
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.134096
+>>>>>>> Stashed changes
 =======
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.134096
@@ -207,6 +220,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2017.11.30-11.19.57:167][  0]LogInit: Selected Device Profile: [Windows]
 [2017.11.30-11.19.57:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -399,6 +413,8 @@ LogInit: Object subsystem initialized
 [2017.11.30-11.20.54:353][729]LogSavePackage: Display: Finished SavePackage F:/Unreal Projects/Un_bateau_pour_deux/Un_bateau_pour_deux/Content/Un-bateau-pour-deux/Maps/Adrien_Rochard.umap
 [2017.11.30-11.20.54:396][729]LogFileHelpers: Saving map 'Adrien_Rochard' took 2.089
 =======
+=======
+>>>>>>> Stashed changes
 [2017.11.30-08.06.24:305][  0]LogInit: Selected Device Profile: [Windows]
 [2017.11.30-08.06.24:305][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2017.11.30-08.06.24:578][  0]LogInit: Computer: DESKTOP-RALP638
@@ -1348,4 +1364,7 @@ LogInit: Object subsystem initialized
 [2017.11.30-11.30.08:732][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
 [2017.11.30-11.30.08:733][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
 [2017.11.30-11.30.08:733][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
